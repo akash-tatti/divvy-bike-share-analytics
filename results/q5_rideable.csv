@@ -1,0 +1,5 @@
+rideable_type,member_casual,trips,pct
+electric_bike,casual,767038,75.7
+classic_bike,casual,246180,24.3
+electric_bike,member,1044732,70.3
+classic_bike,member,441764,29.7
