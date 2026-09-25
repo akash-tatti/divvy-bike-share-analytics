@@ -1,0 +1,7 @@
+# raw trip data (large, downloadable via scripts/download_data.py)
+data/*.zip
+data/2026*-divvy-tripdata/
+__MACOSX/
+__pycache__/
+.duckdb/
+*.pyc
